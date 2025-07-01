@@ -6,4 +6,4 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 <br>
 this is my first repo
 <br>
-Author-shrawan
+Author-shrawan kumar
